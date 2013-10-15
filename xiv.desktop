@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SOCAM_IW
+Exec=/usr/bin/xiv -browse  /home/socam/images
+Icon=/usr/share/icons/xiv.png
+Type=Application
+Terminal=false
+StartupNotify=true
+StartupWMClass=true
