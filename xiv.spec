@@ -39,13 +39,13 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
-# %doc README INSTALL ChangeLog TODO COPYRIGHT
+# %doc README INSTALL ChangeLog TODO LICENSE
 %{_bindir}/xiv
 %{_bindir}/xiv.sh
 /usr/share/applications/xiv.desktop
 /usr/share/icons/xiv.png
 /usr/share/man/man1/xiv.1.gz
-/usr/share/xiv/COPYRIGHT
+/usr/share/xiv/LICENSE
 /usr/share/xiv/ChangeLog
 /usr/share/xiv/INSTALL
 /usr/share/xiv/README
