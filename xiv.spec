@@ -7,7 +7,7 @@ Name: %{name}
 Version: %{version}
 Source: %{name}-%{version}.tgz
 Release: 1%{?dist}
-License: Fidesol
+License: BSD
 Group: Graphisme
 Url: http://sourceforge.net/projects/xiv/
 BuildRequires: libexif-devel libjpeg-devel libtiff-devel libX11-devel
